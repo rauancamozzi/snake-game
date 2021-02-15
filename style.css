@@ -1,0 +1,26 @@
+body {
+    background-image: linear-gradient(140deg,#a29bfe, #6c5ce7);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 125px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+h1 {
+    font-weight: 900;
+}
+
+canvas {
+    border: 5px solid #10ac84;
+    border-radius: 10px;
+}
+
+h4 {
+    font-weight: 400;
+    font-size: 14px;
+}
